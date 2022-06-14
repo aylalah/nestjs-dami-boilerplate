@@ -1,6 +1,6 @@
-# NIBSS Node Boiler-Plate
+# Digit Node Boiler-Plate
 
-## NIBSS
+## DIGIT
 Digit handles all requests. User related requests like registration and password reset are internally handled by Digit, however, request meant for specific services are proxied to the respective service for handling. 
 
 ### Deployment
